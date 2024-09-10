@@ -1,0 +1,12 @@
+---
+title: "about"
+author: "josh and hannah"
+date: "2024-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+in case you did not know, josh and hannah are pretty damn cool
