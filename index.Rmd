@@ -14,3 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **josh studies bromeliads and is a dope science communicator**
 
 **hannah is an amazing chef, and is an inovator when it comes to delcious reciepes**
+
+
+**here is a picture of josh chowing down on pasta**
+<img src="joshblock1.jpeg" alt="yummy yummy" width="200"/>
