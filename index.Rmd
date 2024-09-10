@@ -15,9 +15,14 @@ knitr::opts_chunk$set(echo = TRUE)
 Josh has been collecting tapes from local thrift stores. Ask him about his collections!
 You can find him on insta @botanyballer
 
+**here is a picture of josh chowing down on pasta**
+<img src="joshblock1.jpeg" alt="yummy yummy" width="200"/>
+
 **hannah is an amazing chef, and is an innovator when it comes to delicious recipes**
 She especially likes doing fun stuff w tofu
 When not in the kitchen, she's usually lookin at trees (thru drone cameras or her eyes)
 ![ashe juniper!](/Users/hannahzonnevylle/Desktop/field_pics/IMG_2168.jpg)
+
+
 
 
