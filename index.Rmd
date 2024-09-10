@@ -12,5 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ## josh and hannah like plants!
 
 **josh studies bromeliads and is a dope science communicator**
+Josh has been collecting tapes from local thrift stores. Ask him about his collections!
+You can find him on insta @botanyballer
 
-**hannah is an amazing chef, and is an inovator when it comes to delcious reciepes**
+**hannah is an amazing chef, and is an innovator when it comes to delicious recipes**
+She especially likes doing fun stuff w tofu
+When not in the kitchen, she's usually lookin at trees (thru drone cameras or her eyes)
+![ashe juniper!](/Users/hannahzonnevylle/Desktop/field_pics/IMG_2168.jpg)
+
+
