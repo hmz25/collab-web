@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "home"
 author: "josh and hannah"
 date: "2024-09-10"
 output: html_document
@@ -8,6 +8,13 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+<p style="text-align:center;">we love our girlie nia !!!!!</p>
+
+<div style="text-align: center;">
+  <iframe width="760" height="540" src="https://www.youtube.com/embed/RsZ8bxz68rg?si=IOmlmQLJHgovikhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## josh and hannah like plants!
 
